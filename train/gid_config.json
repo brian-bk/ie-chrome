@@ -1,0 +1,16 @@
+{
+  "Records": [
+    {
+      "keywords": "google chrome logo",
+      "limit": 100,
+      "print_urls": false,
+      "image_directory": "googlechrome"
+    },
+    {
+      "keywords": "logo",
+      "limit": 100,
+      "print_urls": false,
+      "image_directory": "notgooglechrome"
+    }
+  ]
+}

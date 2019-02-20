@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Internet Explorer Chrome",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "ie-chrome",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Replace mentions of Google Chrome with Internet Explorer, and chrome-like logos with a shiny new one",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Internet Explorer Chrome",
+    "description": "The title of the browser action button"
+  }
+}

@@ -1,0 +1,7 @@
+google_images_download>=2.5.0
+ipython>=7.2.0
+jupyter>=1.0.0
+keras>=2.2.4
+pillow>=5.4.1
+tensorflow>=1.13.0rc2
+tensorflowjs>=0.8.0

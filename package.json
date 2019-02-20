@@ -1,0 +1,15 @@
+{
+  "name": "Internet-Explorer-Chrome",
+  "version": "0.0.1",
+  "description": "Replace mentions of Google Chrome with Internet Explorer, and chrome-like logos with a shiny new one",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.15.2"
+  }
+}
