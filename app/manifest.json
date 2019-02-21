@@ -21,5 +21,9 @@
       "run_at": "document_idle",
       "all_frames": false
     }
+  ],
+  "web_accessible_resources": [
+    "models/**/*",
+    "images/*.png"
   ]
 }

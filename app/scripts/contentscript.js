@@ -59,6 +59,7 @@ function replaceImage(node) {
         const predictionData = prediction.dataSync()[0];
 
         if(predictionData < 0.5) {
+            node.crossOrigin = 'anonymous';
             node.src = browser.extension.getURL('/images/icon-256.png');
         }
 
